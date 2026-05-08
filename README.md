@@ -4,6 +4,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 一个轻量级鼠标交替点击工具，用于在《博德之门3》等游戏中两个固定位置之间自动交替点击。
+![设置界面](img/零元购1.png)
+![托盘菜单](img/连点器2.png)
 
 ## 功能
 
