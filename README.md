@@ -1,4 +1,7 @@
 # 博德之门3 邪术师零元购连点器
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v2.0-8B0000?logo=autohotkey)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 一个轻量级鼠标交替点击工具，用于在《博德之门3》等游戏中两个固定位置之间自动交替点击。
 
